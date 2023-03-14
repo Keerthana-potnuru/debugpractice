@@ -1,0 +1,12 @@
+body{
+    background-color: peru;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+}
